@@ -6,7 +6,8 @@ int age=6;
 int height=3;
 public void Pari()
 {
-System.out.println("I love preet and pari");	
+System.out.println("I love preet and pari");
+System.out.println("I love ripu");
 }
 
 public static void main(String[] args) 
