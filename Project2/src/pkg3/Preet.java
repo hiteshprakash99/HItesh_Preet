@@ -8,6 +8,7 @@ public void Pari()
 {
 System.out.println("I love preet and pari");
 System.out.println("I love ripu");
+System.out.println("I love kartik");
 }
 
 public static void main(String[] args) 
